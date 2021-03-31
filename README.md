@@ -12,8 +12,6 @@ Anyone who can teach me Plese contack me
 - **Python**
 -  **C** 
 -  **CPP** 
--  **C shap**  
--  **java**
 -  **CUDA**
 
 ### ⚡️ Skills
