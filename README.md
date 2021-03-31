@@ -5,9 +5,7 @@
 
 Anyone who can teach me plz contact me  
 
-Prerequisites: Basic familiarity with C
 
-Tools, libraries, frameworks used: DeepStream, TensorRT, Jetson Nano
 `Backend`, `Deep Learning`, `DeepStream`,`Gstreamer`,`nvidia`
 
 
