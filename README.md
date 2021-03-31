@@ -1,7 +1,7 @@
 
 # SolBeen Kwon👨🏻‍💻
 
-🌱 I’m currently learning DeepStream,  Why is the deep stream so difficult?
+🌱 I’m currently learning DeepStream in NX ,  Why is the deep stream so difficult?
 
 Anyone who can teach me Plese contack me  
 
