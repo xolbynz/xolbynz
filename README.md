@@ -14,3 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# 👨‍KwonSolBeen👨🏻‍💻
+
+`Backend`, `Deep Learning`
+
+### ⛏ Main Language
+
+- **Python**
+-  **C** 
+-  **CPP** 
+-  **C shap**  
+-  **java**
+-  **CUDA**
+
+### ⚡️ Skills
+- **deepLearing**
+- **pytorch**
+- **ONNX**
+- **TensorRT**
+
+###  💻device
+- **jetson nano**
+- **jetson Xavier**
