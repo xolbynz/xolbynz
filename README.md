@@ -1,7 +1,8 @@
 
 # 👨‍KwonSolBeen👨🏻‍💻
 
-- 🌱 I’m currently learning DeepStream
+- 🌱 I’m currently learning DeepStream,  Why is the deep stream so difficult?
+- Anyone who can teach me Plese contack me  
 
 `Backend`, `Deep Learning`
 
