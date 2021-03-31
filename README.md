@@ -1,5 +1,5 @@
 
-# 👨‍KwonSolBeen👨🏻‍💻
+# 👨‍💻SolBeen Kwon👨🏻‍💻
 
 🌱 I’m currently learning DeepStream,  Why is the deep stream so difficult?
 
@@ -23,3 +23,4 @@ Anyone who can teach me Plese contack me
 ###  💻device
 - **jetson nano**
 - **jetson Xavier**
+
