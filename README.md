@@ -71,15 +71,7 @@ Anyone who can teach me Plese contack me
         </tr>
     </tbody>
 </table>
-### ⚡️ Skills
-- **deepLearing**
-- **pytorch**
-- **ONNX**
-- **TensorRT**
 
-###  💻device
-- **jetson nano**
-- **jetson Xavier**
 
 <div>
 <i>Follow me around the web:</i><br>
