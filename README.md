@@ -1,10 +1,13 @@
 
 # SolBeen Kwon👨🏻‍💻
 
-🌱 I’m currently learning DeepStream in Nano ,  Why is the deep stream so difficult?
+🌱 I’m currently learning DeepStream for Video Analytics on Jetson Nano ,  Why is the deep stream so difficult?
 
 Anyone who can teach me plz contact me  
 
+Prerequisites: Basic familiarity with C
+
+Tools, libraries, frameworks used: DeepStream, TensorRT, Jetson Nano
 `Backend`, `Deep Learning`, `DeepStream`,`Gstreamer`,`nvidia`
 
 
