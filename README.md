@@ -13,9 +13,8 @@ Anyone who can teach me Plese contack me
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![CUDA](https://img.shields.io/badge/-CUDA-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-
+![CUDA](https://img.shields.io/badge/-CUDA-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ### ⚡️ Skills
 - **deepLearing**
 - **pytorch**
