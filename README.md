@@ -1,12 +1,13 @@
 
 # 👨‍KwonSolBeen👨🏻‍💻
 
-- 🌱 I’m currently learning DeepStream,  Why is the deep stream so difficult?
-- Anyone who can teach me Plese contack me  
+🌱 I’m currently learning DeepStream,  Why is the deep stream so difficult?
 
-`Backend`, `Deep Learning`
+Anyone who can teach me Plese contack me  
 
-### ⛏ Main Language
+`Backend`, `Deep Learning`, `DeepStream`,`Gstreamer`,`nvidia`
+
+### ⛏  Language
 
 - **Python**
 -  **C** 
