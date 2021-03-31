@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning DeepStream in Nano ,  Why is the deep stream so difficult?
 
-Anyone who can teach me Plese contack me  
+Anyone who can teach me plz contack me  
 
 `Backend`, `Deep Learning`, `DeepStream`,`Gstreamer`,`nvidia`
 
