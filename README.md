@@ -6,6 +6,8 @@
 
 🌏 Gwangju, Korea
 
+🎉1994.11.22
+
 ## 🌱just call me Swervin:
 
 I’m currently learning DeepStream for Video Analytics on Jetson Nano ,  
