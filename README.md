@@ -1,8 +1,6 @@
 
 # SolBeen Kwon👨🏻‍💻
 
-From Koera 
-
 just call me Swervin
 
 🌱 I’m currently learning DeepStream for Video Analytics on Jetson Nano ,  
