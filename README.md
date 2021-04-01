@@ -35,7 +35,7 @@ Why is the deepstream so difficult? Anyone who can teach me plz contact me
         <tr>
             <td><a href="https://wikipedia.org/wiki/C%2B%2B"><img alt="C++" title="C++" height="28px"
                         src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /></a></td>
-            <td><a href="https://wikipedia.org/wiki/C_%EC%83%A4%ED%94%84"><img alt="C#" title="C#" height="28px"
+            <td><a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img alt="C#" title="C#" height="28px"
                         src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" /></a></td>
             <td><a href="https://www.oracle.com/kr/java/"><img alt="Java" title="Java" height="28px"
                         src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /></a></td>
