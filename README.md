@@ -5,6 +5,8 @@
 
 Why is the deepstream so difficult? Anyone who can teach me plz contact me  
 
+I'll also share my (knowledge)https://dev.to/swervin]
+
 
 `TensorRT`, `Jetson Nano`,`DeepLearning`, `DeepStream`,`Gstreamer`,`nvidia`
 
