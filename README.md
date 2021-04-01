@@ -1,6 +1,7 @@
 
 # SolBeen Kwon👨🏻‍💻
 👨‍💼AI engineer
+
 🏢 intflow inc.
 
 🌏 Gwangju, Korea
