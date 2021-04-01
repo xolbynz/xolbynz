@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning DeepStream for Video Analytics on Jetson Nano ,  
 
-Why is the deepstream so difficult? Anyone who can teach me plz contact me  
+Why is the DeepStream so difficult? Anyone who can teach me plz contact me  
 
 I'll also share  My [KNOWLEDGE](https://dev.to/swervin)
 
