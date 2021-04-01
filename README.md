@@ -43,7 +43,7 @@ Why is the deepstream so difficult? Anyone who can teach me plz contact me
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" /></a>
             </td>
             <td><a href="#"><img alt="c" title="c" height="28px"
-                        src="<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>" /></a></td>
+                        src="https://img.icons8.com/color/48/000000/c-programming.png" /></a></td>
         </tr>
         <tr>
             <td><a href="#"><img alt="NodeJS" title="NodeJS" height="28px"
