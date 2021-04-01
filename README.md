@@ -1,6 +1,8 @@
 
 # SolBeen Kwon👨🏻‍💻
-Korea Developer
+👨‍💼AI Developer
+🏢 intflow inc.
+🌏 Gwangju, Korea
 
 ## 🌱just call me Swervin:
 
