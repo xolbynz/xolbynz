@@ -16,14 +16,14 @@ Why is the deepstream so difficult? Anyone who can teach me plz contact me
 <table>
     <tbody>
         <tr>
-            <td><a href="https://ko.wikipedia.org/wiki/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8"><img alt="JavaScript" title="JavaScript" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
+            <td><a href="https://developer.nvidia.com/tensorrt"><img alt="tensorrt" title="tensorrt" height="28px"
+                        src="https://assets.nvidiagrid.net/ngc/logos/Tensorrt.png" /></a>
             </td>
-            <td><a href="#"><img alt="HTML5" title="HTML5" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+            <td><a href="https://onnx.ai/"><img alt="HTML5" title="HTML5" height="28px"
+                        src="https://www.pngfind.com/pngs/m/147-1474777_onnx-runtime-logo-today-triangle-hd-png-download.png" /></a>
             </td>
-            <td><a href="#"><img alt="CSS3" title="CSS3" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+            <td><a href="https://developer.nvidia.com/deepstream-sdk"><img alt="DeepStream" title="CSS3" height="28px"
+                        src="https://assets.nvidiagrid.net/ngc/logos/Deepstream.png" /></a>
             </td>
             <td><a href="https://en.wikipedia.org/wiki/CUDA"><img alt="cuda" title="cuda" height="28px"
                         src="https://upload.wikimedia.org/wikipedia/en/b/b9/Nvidia_CUDA_Logo.jpg" /></a>
