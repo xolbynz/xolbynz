@@ -26,7 +26,7 @@ Why is the deepstream so difficult? Anyone who can teach me plz contact me
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
             </td>
             <td><a href="#"><img alt="cuda" title="cuda" height="28px"
-                        src="https://smist08.files.wordpress.com/2019/04/cuda.png" /></a>
+                        src="https://upload.wikimedia.org/wikipedia/en/b/b9/Nvidia_CUDA_Logo.jpg" /></a>
             </td>
             <td><a href="https://www.python.org/"><img alt="Python" title="Python" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
