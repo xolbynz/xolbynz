@@ -16,7 +16,7 @@ Why is the deepstream so difficult? Anyone who can teach me plz contact me
 <table>
     <tbody>
         <tr>
-            <td><a href="#"><img alt="JavaScript" title="JavaScript" height="28px"
+            <td><a href="https://ko.wikipedia.org/wiki/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8"><img alt="JavaScript" title="JavaScript" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
             </td>
             <td><a href="#"><img alt="HTML5" title="HTML5" height="28px"
@@ -28,22 +28,22 @@ Why is the deepstream so difficult? Anyone who can teach me plz contact me
             <td><a href="#"><img alt="PHP" title="PHP" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /></a>
             </td>
-            <td><a href="#"><img alt="Python" title="Python" height="28px"
+            <td><a href="https://www.python.org/"><img alt="Python" title="Python" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
             </td>
         </tr>
         <tr>
-            <td><a href="#"><img alt="C++" title="C++" height="28px"
+            <td><a href="https://ko.wikipedia.org/wiki/C%2B%2B"><img alt="C++" title="C++" height="28px"
                         src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /></a></td>
-            <td><a href="#"><img alt="C#" title="C#" height="28px"
+            <td><a href="https://ko.wikipedia.org/wiki/C_%EC%83%A4%ED%94%84"><img alt="C#" title="C#" height="28px"
                         src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" /></a></td>
-            <td><a href="#"><img alt="Java" title="Java" height="28px"
+            <td><a href="https://www.oracle.com/kr/java/"><img alt="Java" title="Java" height="28px"
                         src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /></a></td>
-            <td><a href="#"><img alt="Kotlin" title="Kotlin" height="28px"
+            <td><a href="https://kotlinlang.org/"><img alt="Kotlin" title="Kotlin" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" /></a>
             </td>
-            <td><a href="#"><img alt="Flutter" title="Flutter" height="28px"
-                        src="https://img.icons8.com/color/48/000000/flutter.png" /></a></td>
+            <td><a href="#"><img alt="c" title="c" height="28px"
+                        src="<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>" /></a></td>
         </tr>
         <tr>
             <td><a href="#"><img alt="NodeJS" title="NodeJS" height="28px"
