@@ -22,14 +22,14 @@ Why is the deepstream so difficult? Anyone who can teach me plz contact me
             <td><a href="https://onnx.ai/"><img alt="ONNX" title="ONNX" height="28px"
                         src="https://www.pngfind.com/pngs/m/147-1474777_onnx-runtime-logo-today-triangle-hd-png-download.png" /></a>
             </td>
-            <td><a href="https://i.pinimg.com/originals/25/a1/bb/25a1bbb96884d77ff02bfaa14a47aa15.png"><img alt="DeepStream" title="DeepStream" height="30px"
-                        src="https://assets.nvidiagrid.net/ngc/logos/Deepstream.png" /></a>
+            <td><a href="https://developer.nvidia.com/deepstream-sdk"><img alt="DeepStream" title="DeepStream" height="30px"
+                        src="https://i.pinimg.com/originals/25/a1/bb/25a1bbb96884d77ff02bfaa14a47aa15.png" /></a>
             </td>
             <td><a href="https://en.wikipedia.org/wiki/CUDA"><img alt="cuda" title="cuda" height="28px"
                         src="https://upload.wikimedia.org/wikipedia/en/b/b9/Nvidia_CUDA_Logo.jpg" /></a>
             </td>
-            <td><a href="https://www.python.org/"><img alt="Python" title="Python" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
+            <td><a href="https://gstreamer.freedesktop.org/"><img alt="Gstreamer" title="Gstreamer" height="28px"
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Gstreamer-logo.svg/1280px-Gstreamer-logo.svg.png" /></a>
             </td>
         </tr>
         <tr>
@@ -39,8 +39,8 @@ Why is the deepstream so difficult? Anyone who can teach me plz contact me
                         src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" /></a></td>
             <td><a href="https://www.oracle.com/kr/java/"><img alt="Java" title="Java" height="28px"
                         src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /></a></td>
-            <td><a href="https://kotlinlang.org/"><img alt="Kotlin" title="Kotlin" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" /></a>
+            <td><a href="https://www.python.org/"><img alt="Python" title="Python" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
             </td>
             <td><a href="#"><img alt="c" title="c" height="28px"
                         src="https://img.icons8.com/color/48/000000/c-programming.png" /></a></td>
