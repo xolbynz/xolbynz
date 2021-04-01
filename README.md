@@ -1,5 +1,6 @@
 
 # SolBeen Kwon👨🏻‍💻
+Korea Developer
 
 ## 🌱just call me Swervin:
 
