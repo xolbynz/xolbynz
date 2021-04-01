@@ -9,7 +9,7 @@ Why is the deepstream so difficult? Anyone who can teach me plz contact me
 `TensorRT`, `Jetson Nano`,`DeepLearning`, `DeepStream`,`Gstreamer`,`nvidia`
 
 
-<img align='center' src='https://steamuserimages-a.akamaihd.net/ugc/957473855117891289/F7A5B263CDFB96298115BD0134A0D3A437D2F956/' width='200"'>
+<img align='center' src='https://steamuserimages-a.akamaihd.net/ugc/957473855117891289/F7A5B263CDFB96298115BD0134A0D3A437D2F956/' width='600"'>
 
 ## 👨‍💻 Languages and Tools:
 
