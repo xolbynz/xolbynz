@@ -26,13 +26,13 @@ Why is the DeepStream so difficult? Anyone who can teach me plz contact me
 <table>
     <tbody>
         <tr>
-            <td><a href="https://developer.nvidia.com/tensorrt"><img alt="tensorrt" title="tensorrt" height="80px"
+            <td><a href="https://developer.nvidia.com/tensorrt"><img alt="tensorrt" title="tensorrt" height="32px"
                         src="https://assets.nvidiagrid.net/ngc/logos/Tensorrt.png" /></a>
             </td>
             <td><a href="https://onnx.ai/"><img alt="ONNX" title="ONNX" height="28px"
                         src="https://www.pngfind.com/pngs/m/147-1474777_onnx-runtime-logo-today-triangle-hd-png-download.png" /></a>
             </td>
-            <td><a href="https://developer.nvidia.com/deepstream-sdk"><img alt="DeepStream" title="DeepStream" height="40px"
+            <td><a href="https://developer.nvidia.com/deepstream-sdk"><img alt="DeepStream" title="DeepStream" height="32px"
                         src="https://i.pinimg.com/originals/25/a1/bb/25a1bbb96884d77ff02bfaa14a47aa15.png" /></a>
             </td>
             <td><a href="https://en.wikipedia.org/wiki/CUDA"><img alt="cuda" title="cuda" height="35px"
