@@ -26,20 +26,20 @@ Why is the DeepStream so difficult? Anyone who can teach me plz contact me
 <table>
     <tbody>
         <tr>
-            <td><a href="https://developer.nvidia.com/tensorrt"><img alt="tensorrt" title="tensorrt" height="32px"
-                        src="https://assets.nvidiagrid.net/ngc/logos/Tensorrt.png" /></a>
+            <td><a href="https://developer.apple.com/swift/"><img alt="swift" title="swift" height="32px"
+                        src="https://cdn4.iconfinder.com/data/icons/logos-3/1300/swift-seeklogo-512.png" /></a>
             </td>
-            <td><a href="https://onnx.ai/"><img alt="ONNX" title="ONNX" height="28px"
-                        src="https://www.pngfind.com/pngs/m/147-1474777_onnx-runtime-logo-today-triangle-hd-png-download.png" /></a>
+            <td><a href="https://kotlinlang.org/"><img alt="kotlin" title="kotlin" height="28px"
+                        src="https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png" /></a>
             </td>
             <td><a href="https://developer.nvidia.com/deepstream-sdk"><img alt="DeepStream" title="DeepStream" height="32px"
-                        src="https://i.pinimg.com/originals/25/a1/bb/25a1bbb96884d77ff02bfaa14a47aa15.png" /></a>
+                        src="https://docs.nvidia.com/metropolis/deepstream/dev-guide/_static/nv_logo.png" /></a>
             </td>
             <td><a href="https://en.wikipedia.org/wiki/CUDA"><img alt="cuda" title="cuda" height="35px"
                         src="https://upload.wikimedia.org/wikipedia/en/b/b9/Nvidia_CUDA_Logo.jpg" /></a>
             </td>
             <td><a href="https://gstreamer.freedesktop.org/"><img alt="Gstreamer" title="Gstreamer" height="28px"
-                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Gstreamer-logo.svg/1280px-Gstreamer-logo.svg.png" /></a>
+                        src="https://pbs.twimg.com/profile_images/525141759223808000/ZMyzJwxj_400x400.png" /></a>
             </td>
         </tr>
         <tr>
@@ -59,14 +59,14 @@ Why is the DeepStream so difficult? Anyone who can teach me plz contact me
             <td><a href="https://en.wikipedia.org/wiki/Terminal_(macOS)"><img alt="Terminal" title="Terminal" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
             </td>
-            <td><a href="https://en.wikipedia.org/wiki/Microsoft_Visual_Studio"><img alt="Visual Studio" title="Visual Studio Code" height="28px"
+            <td><a href="https://code.visualstudio.com/"><img alt="Visual Studio" title="Visual Studio Code" height="28px"
                         src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a></td>
-            <td><a href="https://en.wikipedia.org/wiki/Android_Studio"><img alt="Android Studio" title="Android Studio" height="28px"
+            <td><a href="https://developer.android.com/studio"><img alt="Android Studio" title="Android Studio" height="28px"
                         src="https://i.imgur.com/6nJGNMN.png" /></a></td>
-            <td><a href="https://en.wikipedia.org/wiki/Xcode"><img alt="Xcode" title="Xcode" height="28px"
+            <td><a href="https://developer.apple.com/xcode/"><img alt="Xcode" title="Xcode" height="28px"
                         src="https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-realistic-materials_2x.png" /></a></td>
-            <td><a href="https://brave.com/eyl243"><img alt="Brave" title="Brave" height="28px"
-                        src="https://i.imgur.com/UfBWFbP.png" /></a></td>
+            <td><a href="https://www.jetbrains.com//idea/"><img alt="intellij" title="intellij" height="28px"
+                        src="https://img2.pngio.com/clay-os-6-a-macos-icon-intellij-idea-ij-logo-png-pngbarn-intellij-idea-png-910_910.png" /></a></td>
         </tr>
     </tbody>
 </table>
