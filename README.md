@@ -66,7 +66,7 @@ Why is the DeepStream so difficult? Anyone who can teach me plz contact me
             <td><a href="https://developer.apple.com/xcode/"><img alt="Xcode" title="Xcode" height="28px"
                         src="https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-realistic-materials_2x.png" /></a></td>
             <td><a href="https://www.jetbrains.com//idea/"><img alt="intellij" title="intellij" height="28px"
-                        src="https://img2.pngio.com/clay-os-6-a-macos-icon-intellij-idea-ij-logo-png-pngbarn-intellij-idea-png-910_910.png" /></a></td>
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" /></a></td>
         </tr>
     </tbody>
 </table>
