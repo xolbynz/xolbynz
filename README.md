@@ -56,15 +56,15 @@ Why is the DeepStream so difficult? Anyone who can teach me plz contact me
                         src="https://img.icons8.com/color/48/000000/c-programming.png" /></a></td>
         </tr>
         <tr>
-            <td><a href="#"><img alt="Terminal" title="Terminal" height="28px"
+            <td><a href="https://en.wikipedia.org/wiki/Terminal_(macOS)"><img alt="Terminal" title="Terminal" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
             </td>
-            <td><a href="#"><img alt="Visual Studio" title="Visual Studio Code" height="28px"
+            <td><a href="https://en.wikipedia.org/wiki/Microsoft_Visual_Studio"><img alt="Visual Studio" title="Visual Studio Code" height="28px"
                         src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a></td>
-            <td><a href="#"><img alt="Android Studio" title="Android Studio" height="28px"
+            <td><a href="https://en.wikipedia.org/wiki/Android_Studio"><img alt="Android Studio" title="Android Studio" height="28px"
                         src="https://i.imgur.com/6nJGNMN.png" /></a></td>
-            <td><a href="#"><img alt="Heroku" title="Heroku" height="28px"
-                        src="https://img.icons8.com/color/48/000000/heroku.png" /></a></td>
+            <td><a href="https://en.wikipedia.org/wiki/Xcode"><img alt="Xcode" title="Xcode" height="28px"
+                        src="https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-realistic-materials_2x.png" /></a></td>
             <td><a href="https://brave.com/eyl243"><img alt="Brave" title="Brave" height="28px"
                         src="https://i.imgur.com/UfBWFbP.png" /></a></td>
         </tr>
