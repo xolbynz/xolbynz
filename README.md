@@ -73,15 +73,16 @@ Why is the DeepStream so difficult? Anyone who can teach me plz contact me
 
 <p align="left">
 
-## 🙋🏾Connect with me:
-<a href="mailto:rnjs5162@gmail.com"><img src="https://img.shields.io/badge/-gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/___swervin" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/profile.php?id=100002142871669" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://dev.to/swervin" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
-</p>
+
 <h2 align="left">Github stats :bar_chart:</h2>
 <p align="left">
  <img src="https://github-readme-stats.vercel.app/api?username=xolbynz&show_icons=true&theme=synthwave" alt="xolbynz :: Profile Stats" /></p>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xolbynz&langs_count=10&theme=tokyonight&layout=compact" alt="xolbynz :: Top Langs" /></p>
 
+## 🙋🏾Connect with me:
+<a href="mailto:rnjs5162@gmail.com"><img src="https://img.shields.io/badge/-gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/___swervin" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.com/profile.php?id=100002142871669" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://dev.to/swervin" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+</p>
