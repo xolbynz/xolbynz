@@ -80,7 +80,7 @@ Why is the DeepStream so difficult? Anyone who can teach me plz contact me
 <a href="https://dev.to/swervin" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 </p>
 <p align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=xolbynz&show_icons=true&theme=synthwave" alt="xolbynz :: Profile Stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=xolbynz&show_icons=true&theme=synthwave" alt="xolbynz :: Profile Stats" /></p>
 
-<p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xolbynz&langs_count=10&theme=tokyonight&layout=compact" alt="xolbynz :: Top Langs" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xolbynz&langs_count=10&theme=tokyonight&layout=compact" alt="xolbynz :: Top Langs" /></p>
 
