@@ -56,8 +56,8 @@ Why is the DeepStream so difficult? Anyone who can teach me plz contact me
                         src="https://img.icons8.com/color/48/000000/c-programming.png" /></a></td>
         </tr>
         <tr>
-            <td><a href="https://en.wikipedia.org/wiki/Terminal_(macOS)"><img alt="Terminal" title="Terminal" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
+            <td><a href="https://www.vim.org/"><img alt="Vim" title="Vim" height="28px"
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png" /></a>
             </td>
             <td><a href="https://code.visualstudio.com/"><img alt="Visual Studio" title="Visual Studio Code" height="28px"
                         src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a></td>
