@@ -97,5 +97,4 @@ Why is the DeepStream so difficult? Anyone who can teach me plz contact me
 
 
 <iframe src="https://open.spotify.com/embed/album/1DFixLWuPkv3KT3TnV35m3" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media">
-<p>현재 사용 중인 브라우저는 iframe 요소를 지원하지 않습니다!</p>
 </iframe>
