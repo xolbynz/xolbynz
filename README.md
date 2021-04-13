@@ -87,4 +87,11 @@ Why is the DeepStream so difficult? Anyone who can teach me plz contact me
 <a href="https://dev.to/swervin" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 </p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=r7uc1kmdx8gkkowg9u0osgm1f&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+
+---
+
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+
