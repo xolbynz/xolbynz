@@ -89,7 +89,7 @@ Why is the DeepStream so difficult? Anyone who can teach me plz contact me
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/r7uc1kmdx8gkkowg9u0osgm1f)
 
 ---
 
