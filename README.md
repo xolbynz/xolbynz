@@ -85,7 +85,6 @@ Why is the DeepStream so difficult? Anyone who can teach me plz contact me
 
 ---
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 ## 🙋🏾Connect with me:
 <a href="mailto:rnjs5162@gmail.com"><img src="https://img.shields.io/badge/-gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
