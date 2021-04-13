@@ -83,6 +83,8 @@ Why is the DeepStream so difficult? Anyone who can teach me plz contact me
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/r7uc1kmdx8gkkowg9u0osgm1f)
 
+
+<iframe src="https://open.spotify.com/embed/album/6W5maKueRWuKffmaMfXUjp" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 ---
 
 
