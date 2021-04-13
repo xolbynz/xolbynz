@@ -75,8 +75,6 @@ Why is the DeepStream so difficult? Anyone who can teach me plz contact me
 
 
 <h2 align="left">Github stats :bar_chart:</h2>
-<p align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=xolbynz&show_icons=true&theme=synthwave" alt="xolbynz :: Profile Stats" /></p>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xolbynz&langs_count=10&theme=tokyonight&layout=compact" alt="xolbynz :: Top Langs" /></p>
 
