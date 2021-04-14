@@ -81,7 +81,7 @@ Why is the DeepStream so difficult? Anyone who can teach me plz contact me
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://spotify2.vercel.app/#)](https://open.spotify.com/user/r7uc1kmdx8gkkowg9u0osgm1f)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/r7uc1kmdx8gkkowg9u0osgm1f)
 
 
 
