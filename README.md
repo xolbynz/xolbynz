@@ -76,7 +76,7 @@ Why is the DeepStream so difficult? Anyone who can teach me plz contact me
 
 <h2 align="left">Github stats :bar_chart:</h2>
 
-<p align="left"><a href="https://open.spotify.com/user/r7uc1kmdx8gkkowg9u0osgm1f"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xolbynz&langs_count=10&theme=tokyonight&layout=compact" alt="xolbynz :: Top Langs" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xolbynz&langs_count=15&theme=tokyonight&layout=compact" alt="xolbynz :: Top Langs" /></p>
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
