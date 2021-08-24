@@ -19,8 +19,6 @@ Why is the DeepStream so difficult? Anyone who can teach me plz contact me
 `TensorRT`, `Jetson Nano`,`DeepLearning`, `DeepStream`,`Gstreamer`,`nvidia`
 
 
-<img align='center' src='https://steamuserimages-a.akamaihd.net/ugc/957473855117891289/F7A5B263CDFB96298115BD0134A0D3A437D2F956/' width='600"'>
-
 ## 👨‍💻 Languages and Tools:
 
 <table>
@@ -93,9 +91,6 @@ Why is the DeepStream so difficult? Anyone who can teach me plz contact me
 <a href="https://www.instagram.com/___swervin" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/profile.php?id=100002142871669" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://dev.to/swervin" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
-
-<a href="https://twitter.com/___swervin" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"></a>
-<a href="https://www.linkedin.com/in/solbeen-kwon-01459121a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 .
