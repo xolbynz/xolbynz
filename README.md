@@ -1,5 +1,5 @@
 
-# SolBeen Kwon👨🏻‍💻
+# SolBeen Kwon(권솔빈)👨🏻‍💻
 👨‍💼AI engineer
 
 🏢 [intflow inc](http://intflow.ai/)
