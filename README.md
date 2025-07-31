@@ -2,7 +2,6 @@
 # SolBeen Kwon(권솔빈)👨🏻‍💻
 👨‍💼AI engineer
 
-🏢 [intflow inc](http://intflow.ai/)
 
 🌏 Gwangju, Korea
 
